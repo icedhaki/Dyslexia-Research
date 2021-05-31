@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=
+comment1.target=main()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ main\r\n
+comment2.params=current\ name
+comment2.target=boolean\ accept(java.io.File,\ java.lang.String)
+comment3.params=p\ pIndex\ mIndex\ tIndex\ gIndex
+comment3.target=int\ findError(Participant[],\ int,\ int,\ int,\ int)
+comment3.text=\r\n\ Method\ that\ calculates\ and\ returns\ the\ total\ error\ for\ the\ given\ participant,\ given\ maze,\ given\ trial.\r\n\ Arguments\:\ Participant[]\ p\ -\ array\ that\ stores\ all\ participants\ (there\ are\ 91\ participants\ +\ 1\ ground-truth\ participant)\r\n\ Arguments\:\ int\ pIndex\ -\ participant's\ index\ (0\ to\ 90)\r\n\ Arguments\:\ int\ mIndex\ -\ given\ maze\ (0\ to\ 5)\r\n\ Arguments\:\ int\ tIndex\ -\ given\ trial\ (0\ to\ 5)\r\n\ Arguments\:\ int\ gIndex\ -\ given\ ground-truth\ trial\ (0\ to\ 5)\r\n
+comment4.params=str
+comment4.target=boolean\ isNullOrEmpty(java.lang.String)
+comment5.params=fileName
+comment5.target=void\ fetchData(java.lang.String)
+comment6.params=strNumber
+comment6.target=float\ ParseFloat(java.lang.String)
+comment7.params=strNumber
+comment7.target=int\ ParseInt(java.lang.String)
+comment8.params=array
+comment8.target=float[]\ average(float[][])
+comment9.params=fileNames
+comment9.target=void\ calculate(java.lang.String[])
+numComments=10
